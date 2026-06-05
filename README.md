@@ -32,9 +32,9 @@ Building premium digital products for businesses that care about performance and
    
 - ### 📬 Reach me
    
-- - 🌐 **Portfolio:** [danielmashkov.com](https://danielmashkov.com)
-- - 💼 **LinkedIn:** [in/danielmashkov](https://linkedin.com/in/danielmashkov)
-- - 📧 **Email:** info@danielmashkov.com
+-  🌐 **Portfolio:** [danielmashkov.com](https://danielmashkov.com)
+-  💼 **LinkedIn:** [in/danielmashkov](https://linkedin.com/in/danielmashkov)
+-  📧 **Email:** info@danielmashkov.com
          
 - ---
 
