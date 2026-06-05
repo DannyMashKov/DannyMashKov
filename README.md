@@ -39,5 +39,5 @@ Building premium digital products for businesses that care about performance and
 - ---
 
 <div align="center">
-<sub>855+ contributions in the last year · Netanya, Israel</sub>sub>
-</div>div></sub>
+<sub>855+ contributions in the last year · Netanya, Israel</sub>
+</div>
