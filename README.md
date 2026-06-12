@@ -39,6 +39,5 @@ Since 2015, I've designed and built digital systems for businesses — eCommerce
 - ---
 
 <div align="center">
-<sub>855+ contributions in the last year · Netanya, Israel</sub>sub>
-</div>div>
-</sub>
+<sub>855+ contributions in the last year · Netanya, Israel</sub>
+</div>
