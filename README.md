@@ -27,18 +27,18 @@ Since 2015, I've designed and built digital systems for businesses — eCommerce
 ### 🤖 Currently building
 
 - AI automation systems and Telegram bots powered by Gemini
-- - Premium Next.js 15 portfolio & lead-gen sites with sub-1s LCP
-  - - Cloudflare Workers for serverless edge workloads
+- Premium Next.js 15 portfolio & lead-gen sites with sub-1s LCP
+- Cloudflare Workers for serverless edge workloads
    
-    - ### 📬 Reach me
+- ### 📬 Reach me
    
-    - - 🌐 **Portfolio:** [danielmashkov.com](https://danielmashkov.com)
-      - - 💼 **LinkedIn:** [in/danielmashkov](https://linkedin.com/in/danielmashkov)
-        - - 📧 **Email:** info@danielmashkov.com
+- 🌐 **Portfolio:** [danielmashkov.com](https://danielmashkov.com)
+- 💼 **LinkedIn:** [in/danielmashkov](https://linkedin.com/in/danielmashkov)
+- 📧 **Email:** info@danielmashkov.com
          
-          - ---
+- ---
 
-          <div align="center">
-          <sub>855+ contributions in the last year · Netanya, Israel</sub>sub>
-          </div>div>
-          </sub>
+<div align="center">
+<sub>855+ contributions in the last year · Netanya, Israel</sub>sub>
+</div>div>
+</sub>
